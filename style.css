@@ -1,0 +1,31 @@
+
+header{
+	background: #544F4F;
+}
+li{
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 70px;
+}
+section{
+	background: #CDCDCD;
+	padding-bottom: 50px;
+}
+a{
+	text-decoration: none;
+	font-size: 17px;
+}
+.enlace{
+	color: white;
+	font-size: 20px;
+}
+img{
+	max-width: 100%;
+}
+h4{
+	text-align: center;
+}
+h6{
+	text-align: center;
+	margin-bottom: 10px;
+}
